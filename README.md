@@ -11,6 +11,10 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 #### [Cursa](/Cursa) theme
 
 ![](/Cursa/preview.png)
+#### [Zaurak](/Zaurak) theme
+
+![](/Zaurak/preview.png)
+- Wallpaper [Here](https://unsplash.com/photos/Rpz-455NaQw)
 
 ## Note :
 - syntax configuration of this theme for conky version 1.10.8 or newer
