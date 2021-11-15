@@ -15,6 +15,11 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 
 ![](/Zaurak/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/Rpz-455NaQw)
+------------------------------------------------------------------------
+#### [Fornax](/Fornax) theme
+
+![](/Fornax/preview.png)
+- Wallpaper [Here](https://unsplash.com/photos/9AmKnNZw3GA)
 
 ## Note :
 - syntax configuration of this theme for conky version 1.10.8 or newer
