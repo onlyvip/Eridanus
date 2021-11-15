@@ -15,7 +15,11 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 
 ![](/Zaurak/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/Rpz-455NaQw)
+#### [Azha](/Azha) theme
+
+![](/Azha/preview.png)
 ------------------------------------------------------------------------
+### Featured
 #### [Fornax](/Fornax) theme
 
 ![](/Fornax/preview.png)
