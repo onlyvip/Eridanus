@@ -24,6 +24,10 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 
 ![](/Fornax/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/9AmKnNZw3GA)
+#### [Deneb](/Deneb) theme
+
+![](/Deneb/preview.png)
+- Wallpaper [Here](https://www.teahub.io/viewwp/moxJ_easy-mountain-snow-painting/)
 
 ## Note :
 - syntax configuration of this theme for conky version 1.10.8 or newer
