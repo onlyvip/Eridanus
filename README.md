@@ -1,7 +1,6 @@
 ![greetings](/Asset/Eridanus.png)
 
 A Conky themes pack which I made in hopes of beautifying your desktop 
-
 ## Showcase :
 
 #### [Achernar](/Achernar) theme
@@ -20,6 +19,10 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ![](/Azha/preview.png)
 ------------------------------------------------------------------------
 ### Featured
+#### [Azimech](/Azimech) theme
+
+![](/Azimech/preview.png)
+- Inspired from Drizzle (rainmeter theme)
 #### [Fornax](/Fornax) theme
 
 ![](/Fornax/preview.png)
